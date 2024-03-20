@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Demo](https://thewilheim.github.io/expenses-chart-component-main/))
+- Solution URL: [Demo](https://thewilheim.github.io/expenses-chart-component-main/)
 
 ### Built with
 
