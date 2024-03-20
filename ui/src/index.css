@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  @apply bg-cream h-screen w-screen text-base
+}
+#root{
+  @apply bg-cream h-full w-full text-base flex justify-center items-center
+}
